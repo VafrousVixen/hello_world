@@ -2,7 +2,7 @@
 
 This is a simple Hello World program. I created this to demonstrate the integrated use of Python, Visual Studio Code, and GitHub together.
 
-Here is a demo of my sofware: [Software Demo Video](http://youtube.link.goes.here)
+Here is a demo of my sofware: [Software Demo Video](https://youtu.be/R8p6znT1Fbs)
 
 # Development Environment
 
@@ -12,5 +12,5 @@ Here is a demo of my sofware: [Software Demo Video](http://youtube.link.goes.her
 
 # Useful Websites
 
-* [Visual Studio Code with GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [Visual Studio Code and GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Python 3.8.5 Documentation](https://docs.python.org/release/3.8.5/)
